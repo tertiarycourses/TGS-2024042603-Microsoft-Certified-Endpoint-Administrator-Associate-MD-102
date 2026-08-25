@@ -3,18 +3,22 @@
 WSQ Course Code: `TGS-2024042603`<br>
 Provider: Tertiary Infotech Academy Pte Ltd<br>
 Duration: 5 days / 40 hours<br>
-Version: v3.0, 25 August 2026
+Version: v3.1, 25 August 2026
 
 This courseware prepares endpoint administrators to design, deploy, secure, maintain, and optimize modern endpoints with Microsoft Intune, Microsoft Entra ID, Windows Autopilot, Microsoft Defender for Endpoint, Microsoft Graph, PowerShell, Windows 365, and Endpoint Analytics.
 
 [Course registration and current funding information](https://www.tertiarycourses.com.sg/wsq-microsoft-certified-endpoint-administrator-associate-md-102.html)
 
+## Preview
+
+![MD-102 v3.1 courseware cover](screenshot.png)
+
 ## Courseware package
 
 | Artifact | Purpose |
 | --- | --- |
-| [Trainer Slides — PPTX](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.0.pptx>) | Editable, highly visual 244-slide trainer deck with native charts, diagrams, operational evidence, and speaker-facing flow. |
-| [Trainer Slides — PDF](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.0.pdf>) | Portable learner/reference rendering of the deck. |
+| [Trainer Slides — PPTX](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.1.pptx>) | Editable, highly visual 583-slide trainer deck with native charts, diagrams, operational evidence, and speaker-facing flow. |
+| [Trainer Slides — PDF](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.1.pdf>) | Portable learner/reference rendering of the deck. |
 | [Learner Guide — DOCX](<courseware/LG-Microsoft Certified Endpoint Administrator Associate (MD-102).docx>) | Detailed concepts, troubleshooting, exact procedures, and acceptance checks. |
 | [Learner Guide — PDF](<courseware/LG-Microsoft Certified Endpoint Administrator Associate (MD-102).pdf>) | Portable Learner Guide rendering. |
 | [Learner Guide — Markdown](<LG-Microsoft Certified Endpoint Administrator Associate (MD-102).md>) | Searchable source-friendly guide. |
@@ -55,7 +59,7 @@ Every lab folder contains its own guide, starter evidence index, expected-eviden
 
 ## Source authority
 
-The v3.0 scope is aligned to the [Microsoft MD-102 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102), [Microsoft Learn MD-102 course](https://learn.microsoft.com/en-us/training/courses/md-102t00), and the official [MicrosoftLearning MD-102 lab repository](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator) at pinned source commit `25eaad2a79548c4767ea45eae8d08649622c583a`.
+The v3.1 scope is aligned to the [Microsoft MD-102 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102), [Microsoft Learn MD-102 course](https://learn.microsoft.com/en-us/training/courses/md-102t00), and the official [MicrosoftLearning MD-102 lab repository](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator) at pinned source commit `25eaad2a79548c4767ea45eae8d08649622c583a`.
 
 ## Safety and publication boundary
 

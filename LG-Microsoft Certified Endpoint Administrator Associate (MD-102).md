@@ -1,7 +1,7 @@
 # Microsoft Certified Endpoint Administrator Associate (MD-102) — Learner Guide
 
 **WSQ Course Code:** TGS-2024042603<br>
-**Version:** v3.0 · 25 August 2026<br>
+**Version:** v3.1 · 25 August 2026<br>
 **Duration:** 5 days / 40 hours
 
 ## Learning outcomes

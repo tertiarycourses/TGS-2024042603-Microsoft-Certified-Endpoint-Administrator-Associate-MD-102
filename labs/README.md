@@ -1,6 +1,6 @@
 # Microsoft Certified Endpoint Administrator Associate (MD-102) — Labs
 
-Course code: `TGS-2024042603` · Version `v3.0`
+Course code: `TGS-2024042603` · Version `v3.1`
 
 Each lab is self-contained. Work only in the assigned training tenant and test devices.
 
