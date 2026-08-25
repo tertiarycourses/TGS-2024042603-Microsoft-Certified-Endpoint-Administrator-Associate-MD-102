@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Private build and release tooling
+.claude/
+.codex/
+reference/
+
+# Assessments and answer keys are never published to the public repository
+assessment/
+
+# Local QA and generated mapping reports
+courseware/build-validation.json
+courseware/slide_map.json
+courseware/technical-anchor-inventory.json
+courseware/archive/
+
+# Office temporary files
+~$*
+*.tmp
