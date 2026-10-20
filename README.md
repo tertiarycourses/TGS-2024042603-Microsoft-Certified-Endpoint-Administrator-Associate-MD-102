@@ -7,7 +7,14 @@ Version: v3.1, 25 August 2026
 
 This courseware prepares endpoint administrators to design, deploy, secure, maintain, and optimize modern endpoints with Microsoft Intune, Microsoft Entra ID, Windows Autopilot, Microsoft Defender for Endpoint, Microsoft Graph, PowerShell, Windows 365, and Endpoint Analytics.
 
-[Course registration and current funding information](https://www.tertiarycourses.com.sg/wsq-microsoft-certified-endpoint-administrator-associate-md-102.html)
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2024042603` |
+| Programme | WSQ |
+| Duration | 5 days / 40 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-microsoft-certified-endpoint-administrator-associate-md-102.html) |
+| Funding | Up to 70% course fee funding: 50% baseline for Singapore Citizens and PRs aged 21+, up to 70% for Singapore Citizens aged 40+ (MCES) and SME-sponsored employees. Eligibility and terms apply; see the course page for current fees. |
+| Provider | Tertiary Infotech Academy Pte Ltd (UEN 201200696W) |
 
 ## Preview
 
@@ -17,7 +24,7 @@ This courseware prepares endpoint administrators to design, deploy, secure, main
 
 | Artifact | Purpose |
 | --- | --- |
-| [Trainer Slides — PPTX](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.1.pptx>) | Editable, highly visual 583-slide trainer deck with native charts, diagrams, operational evidence, and speaker-facing flow. |
+| [Trainer Slides — PPTX](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.1.pptx>) | Editable, highly visual 584-slide trainer deck with native charts, diagrams, operational evidence, and speaker-facing flow. |
 | [Trainer Slides — PDF](<courseware/Microsoft Certified Endpoint Administrator Associate (MD-102)-v3.1.pdf>) | Portable learner/reference rendering of the deck. |
 | [Learner Guide — DOCX](<courseware/LG-Microsoft Certified Endpoint Administrator Associate (MD-102).docx>) | Detailed concepts, troubleshooting, exact procedures, and acceptance checks. |
 | [Learner Guide — PDF](<courseware/LG-Microsoft Certified Endpoint Administrator Associate (MD-102).pdf>) | Portable Learner Guide rendering. |
